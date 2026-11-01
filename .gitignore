@@ -1,0 +1,17 @@
+# Local simulation builds and generated traces
+/build/
+*.vcd
+*.vvp
+*.out
+*.log
+
+# Editor and operating-system files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Future generated implementation outputs
+/synthesis/generated/
+/sta/generated/
+/physical_design/generated/
